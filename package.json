@@ -1,6 +1,6 @@
 {
-  "name": "@kenpachiii/fhir-types",
-  "version": "1.0.0",
+  "name": "@kenpachi/fhir-types",
+  "version": "1.0.1",
   "description": "",
   "repository": {
     "type": "git",
