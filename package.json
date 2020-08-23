@@ -1,0 +1,15 @@
+{
+  "name": "@kenpachiii/fhir-types",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenpachiii/fhir-types.git"
+  },
+  "author": "Michael Lewis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenpachiii/fhir-types/issues"
+  },
+  "homepage": "https://github.com/kenpachiii/fhir-types#readme"
+}
