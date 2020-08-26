@@ -1,4 +1,4 @@
-/// <reference path="./fhir.d.ts" />
+/// <reference path="./index.d.ts" />
 
 var example1: fhir.CapabilityStatement = {
     "resourceType": "CapabilityStatement",

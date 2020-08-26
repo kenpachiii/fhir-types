@@ -1,7 +1,7 @@
 {
   "name": "@kenpachi/fhir-types",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "fhir version 4 typescript definitions",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kenpachiii/fhir-types.git"
